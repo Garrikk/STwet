@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/pre-dexed/debug/classes-5f04dbc8c96c0dbf258d856563a2ecef0e2848cc.jar"
+        jar="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.20.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="66236ebe4d86dafbfc30b4fd7e5917ba2a645b35"/>
+    <item
+        dex="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-9f63f630a06b897d4f63bd2592a277aecd6c726e.jar"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.2/91c20388c9a45f62b5ed8fe0502bb76ff6251fc7/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7"/>
+    <item
+        dex="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-a0e377d7a34fcdfced04599f08c36748fc14e3f8.jar"
+        jar="/usr/share/android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/pre-dexed/debug/classes-278dedb35c61ef72c60ac72b06cec7c1594b0da6.jar"
+        jar="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-140b38e49c9ae4e7701d74fa5709f63940bd884d.jar"
+        jar="/home/user/Documents/AndroidStudioProjects/STwet/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
